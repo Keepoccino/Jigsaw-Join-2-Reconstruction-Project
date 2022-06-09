@@ -21458,7 +21458,7 @@ templateData['jigsaw-15x12-3'] = {
 }
 templateData['jigsaw-30x24-3'] = {
   baseUrl = 'file:///c:/Users/Anthony/Desktop/jigsaw-models/jigsaw-30x24-3/',
-  baseUrl = 'https://drive.brainsick.com/tts/jigsaw-templates/jigsaw-30x24-3/',
+  baseUrl = 'https://keepoccino.github.io/Jigsaw-Join-2-Reconstruction-Project/models/jigsaw-templates/jigsaw-30x24-3/',
   pieces = pieceData30243,
   dimensions = { width = 30, height = 24 },
   size = 15.9
@@ -21470,7 +21470,7 @@ templateData['jigsaw-16x9-1'] = {
 }
 templateData['jigsaw-16x9-3'] = {
   baseUrl = 'file:///c:/Users/Anthony/Desktop/jigsaw-models/jigsaw-16x9-3/',
-  baseUrl = 'https://drive.brainsick.com/tts/jigsaw-templates/jigsaw-16x9-3/',
+  baseUrl = 'https://keepoccino.github.io/Jigsaw-Join-2-Reconstruction-Project/models/jigsaw-templates/jigsaw-16x9-3/',
   pieces = pieceData1693,
   dimensions = { width = 16, height = 9 },
   size = 3.0
@@ -21517,7 +21517,7 @@ templateData['jigsaw-16x10-1'] = {
 }
 templateData['jigsaw-16x10-3'] = {
   baseUrl = 'file:///c:/Users/Anthony/Desktop/jigsaw-models/jigsaw-16x10-3/',
-  baseUrl = 'https://drive.brainsick.com/tts/jigsaw-templates/jigsaw-16x10-3/',
+  baseUrl = 'https://keepoccino.github.io/Jigsaw-Join-2-Reconstruction-Project/models/jigsaw-templates/jigsaw-16x10-3/',
   pieces = pieceData16103,
   dimensions = { width = 16, height = 10 },
   size = 3.4
@@ -21566,7 +21566,7 @@ templateData['jigsaw-12x16-3'] = {
 }
 templateData['jigsaw-24x32-3'] = {
   baseUrl = 'file:///c:/Users/Anthony/Desktop/jigsaw-models/jigsaw-24x32-3/',
-  baseUrl = 'https://drive.brainsick.com/tts/jigsaw-templates/jigsaw-24x32-3/',
+  baseUrl = 'https://keepoccino.github.io/Jigsaw-Join-2-Reconstruction-Project/models/jigsaw-templates/jigsaw-24x32-3/',
   pieces = pieceData24323,
   dimensions = { width = 24, height = 32 },
   size = 17.1
